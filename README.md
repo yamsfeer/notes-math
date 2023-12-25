@@ -1,2 +1,1 @@
-# math-notes
-math notes
+yamsfeer's math notes
